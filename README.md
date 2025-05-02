@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/leulyohannes85" target="blank"><img src="https://img.shields.io/twitter/follow/leulyohannes85?logo=twitter&style=for-the-badge" alt="leulyohannes85" /></a> </p>
 
-- 🌱 I’m currently learning **react nextjs**
+- 🌱 I’m currently learning **react native for mobile app**
 
 - 📫 How to reach me **ltyohannes95@gmail.com**
 
