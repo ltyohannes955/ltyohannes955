@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ltyohannes95@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/leulyohannes85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leulyohannes85" height="30" width="40" /></a>
 <a href="https://instagram.com/tito_lyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tito_lyl" height="30" width="40" /></a>
